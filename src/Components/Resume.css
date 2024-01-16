@@ -1,0 +1,15 @@
+.resume-container {
+    background-image: url('./Resume.jpg'); /* Adjust the path accordingly */
+    background-size: cover;
+    background-position: center;
+    width: 1100%;
+    height: 100vh; /* Adjust the height as needed */
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+    margin-right:45px ;
+    align-items: center;
+    color: white;
+  }
+  
+  

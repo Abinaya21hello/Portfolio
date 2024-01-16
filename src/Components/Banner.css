@@ -1,0 +1,22 @@
+/* Banner.css */
+
+.banner {
+    background-image: url("https://img.freepik.com/premium-vector/threedimensional-render-minimal-perspective-presentation-futuristic-paint-shiny-cover-wallpaper_597121-2385.jpg?size=626&ext=jpg&ga=GA1.1.301433589.1702543840&semt=ais"); /* Replace with the path to your image */
+    background-size: cover; /* Cover the entire banner with the background image */
+  background-position: center; /* Center the background image */
+  width: 83%; /* Make the banner full width */
+  height: 30vh; /* Make the banner full height of the viewport */
+  color: whitesmoke; /* You can set text color here */
+   padding: 282px; /* Adjust padding as needed */
+    margin-top: 0px;
+    text-align: center;
+    padding-top: 20%;
+    /* display: flex; Use flex display to center content vertically and horizontally */
+  justify-content: center; /* Center content horizontally */
+  align-items: center; /* Center content vertically */
+}
+
+
+  
+  
+

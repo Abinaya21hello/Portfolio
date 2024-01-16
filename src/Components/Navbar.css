@@ -1,0 +1,23 @@
+.navbar {
+  position: fixed;
+  right: 1100px;
+  display: flex;
+  bottom: 60px;
+  margin-top: 10px;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  margin-bottom: 10px;
+  font-weight: bold;
+  white-space: nowrap; /* Prevent text from wrapping */
+}
+
+.navbar .home-link {
+  position: fixed;
+  left: 49px; /* Adjust left positioning as needed */
+  top: 10px; /* Adjust top positioning as needed */
+}
